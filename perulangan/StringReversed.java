@@ -2,7 +2,7 @@ package perulangan;
 
 import java.util.Scanner;
 
-public class belajarPerulangan2 {
+public class StringReversed {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
